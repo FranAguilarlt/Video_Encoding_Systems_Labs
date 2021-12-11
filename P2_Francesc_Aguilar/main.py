@@ -5,7 +5,7 @@ os.chdir('/')
 
 # ask seconds of cropage
 
-vale = input("Enter the number of seconds of video: ")
+val = input("Enter the number of seconds of video: ")
 d = str(val)
 
 
